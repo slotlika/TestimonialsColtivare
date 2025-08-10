@@ -1,0 +1,47 @@
+<html> 
+    <head>
+    <style>
+        body{
+             background-color: #FBEEDB;
+            }
+             ul li {
+                font-family: "Courier New", Courier, monospace; 
+                    }
+            ol li {
+                font-family: Georgia,serif; 
+                    }
+      </style>
+    </head>
+    <body>
+        
+        <h1 style="color: #006400;">Customer Testimonials</h1>
+        <p style="color: #8B4513; font-size: 18px;"> At Coltivare we value the customers opinions and feedback! Here are some of our most viewed reviews! </p>
+
+        <h2 style="color: #006400;">Reviews</h2>
+        <a href="Agricultur.png" download> Click on me to see how to line up your seeds!</a>
+        <p><i>All reviews can be found on Coltivare's google search parge </i></p>
+        <ol>
+            <li>"Awesome fertilizer, that stuff really helped my lemon trees grow! - Sonia P.</li>
+            <li>"Best Prices for farming tools in town! - Ronnie B.</li>
+            <li>"The sandy soil was perfect for my vegetable garden, really great stuff. -Maddie R. </li>
+            <li>"Amazing Customer Service, I accidentally ordered five extra bags or fertilizer and all of it got refunded to me. - Emma C. </li> 
+        </ol>
+        
+        
+            <a href="https://doee.dc.gov/service/best-practices-fertilizer-use" target="_blank">Effective Fertilizer Use</a>
+            <br />
+        </ul>
+
+        <h3 style="color: #006400;"><b>Customer Review Scoring</b></h3>
+        <pstyle="color: #8B4513; font-size: 25px;"><i>All scores were averaged on our website!</i></p>
+        <ul>
+            <li><i><u>Product Durability</u></i>: 9/10</li>
+            <li><i><u>Fertilizer Effectiveness</u></i>: 8.5/10</li>
+            <li><i><u>Customer Service</u></i>: 10/10</li> 
+            <li><i><u>Quality of Plants Sold</u></i>: 9.5/10</li>
+        </ul>
+        <img src = "products.png" alt = "Farming Tools Photo"><br>
+        <a href="mailto:slotlika@purdue.edu">Contact Us</a><br>
+        <script>document.write(document.lastModified);</script><br>
+    </body>
+</html>
